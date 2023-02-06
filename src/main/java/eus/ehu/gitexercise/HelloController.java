@@ -12,5 +12,6 @@ public class HelloController {
 
         welcomeText.setText("Welcome to JavaFX Application!");
         System.out.println("Xiomara was here");
+        System.out.println("Leire was here");
     }
 }
